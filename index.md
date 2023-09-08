@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Isaac Newtons's CV
+---
+
 # Su Myat Tun
 _Senior Android Developer @Lomotif, GDE for Android based in Singapore_
 

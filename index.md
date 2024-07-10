@@ -22,16 +22,16 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
 
 
 ## Technical Skills
-**Languagues:** Kotlin, Java, XML, Flutter
-**Frameworks/Libraries:** Android SDK, Jetpack, Compose, Retrofit, Hilt, Dagger, Coroutine, RxJava, Coil, Glide, Work Mangers, Paging, Material Components
-**Architectures:** Clean Architecture, MVVM, MVI, MVP  
-**APIs:** RESTful APIs, Google APIs, third-party APIs
-**Testing:** TDD, ScreenShot Testing, Pararazzi, JUnit, Espresso, Mockito
-**Persistance Storage:** DataStore, SharedPreferences, Room 
-**Meida:** Media3, ExoPlayer 
-**Tools:** Android Studio, Intellij, Gradle, Firebase, VsCode
-**Version Control:** GIT, GitLab
-**Analyzer & Debugging:** KtLint Check, detekt, lint configurations, LeakCanary
+**Languagues:** Kotlin, Java, XML, Flutter<br>
+**Frameworks/Libraries:** Android SDK, Jetpack, Compose, Retrofit, Hilt, Dagger, Coroutine, RxJava, Coil, Glide, Work Mangers, Paging, Material Components<br>
+**Architectures:** Clean Architecture, MVVM, MVI, MVP<br>  
+**APIs:** RESTful APIs, Google APIs, third-party APIs<br>
+**Testing:** TDD, ScreenShot Testing, Pararazzi, JUnit, Espresso, Mockito<br>
+**Persistance Storage:** DataStore, SharedPreferences, Room<br> 
+**Meida:** Media3, ExoPlayer<br> 
+**Tools:** Android Studio, Intellij, Gradle, Firebase, VsCode<br>
+**Version Control:** GIT, GitLab<br>
+**Analyzer & Debugging:** KtLint Check, detekt, lint configurations, LeakCanary<br>
 **Others:** Agile methodologies, CI/CD, Dependency Injection, Data Binding, View Binding
 
 ## Industry Experience

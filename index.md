@@ -6,7 +6,9 @@ title: Su Myat's CV
 # Su Myat Tun
 _Senior Android Developer @Lomotif, Google Developer Expert for Android based in Singapore_
 
-[Portfolio][https://suhtun.github.io/] / [Linkedin][https://www.linkedin.com/in/jessica-sumyat/] / [Github][https://github.com/suhtun]
+* Portfolio :https://suhtun.github.io/
+* Linkedin  :https://www.linkedin.com/in/jessica-sumyat/
+* Github    :https://github.com/suhtun
 
 ## Currently 
 Senior Android Developer at Lomotif| ex Android Team Lead at WaveMoney| Google Developer Expert for Android

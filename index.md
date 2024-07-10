@@ -30,6 +30,7 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
 * &#9679; **Persistance Storage:** DataStore, SharedPreferences, Room 
 * &#9679; **Meida:** Media3, ExoPlayer 
 * &#9679; **Tools:** Android Studio, Intellij, Gradle, Firebase, VsCode
+* **Version Control:** GIT, GitLab
 * &#9679; **Analyzer & Debugging:** KtLint Check, detekt, lint configurations, LeakCanary
 * &#9679; **Others:** Agile methodologies, CI/CD, Dependency Injection, Data Binding, View Binding
 
@@ -39,7 +40,8 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
     * &#9679; **Legacy Migration:** Assisted in migration legacy codebases to best pratices (MVVM/MVI with Clean Architecture, Feature Modularisation, latest Jetpack libraries, Jetpack Compose, Media3, Junit, ScreenShot Testing)
     * &#9679; **Performance Optimization:** Optimized Core Video Player to ExoPlayer with local cache strategies, resulting in a 50% improvement in responsiveness for millions of users.
     * &#9679; **Support:** Managed the Buddy CI/CD pipelines for deployment and testing of the app. 
-    * &#9679;**Mentorship:** Conducted regular code reviews, provided techincal guidance, and mentorship to team members resulting in improved coding standards and overall team performance.
+    * &#9679;**Code Review:** Participate in code reviews to maintain high code quality standards.
+    * **Debugging:** Troubleshoot and debug issues to improve application performance and reliability.
     * &#9679; **Agile Practices:**Actively participated in Agile development sprints, including sprint planning, daily stand-ups, and retrospectives.
     * &#9679; **Cross-Functional Collaboration:** Worked closely with Product, UX designers, Analytics, Architects, backend developers, and QA teams to ensure seamless delivery of high-quality applications.
 <br><br>

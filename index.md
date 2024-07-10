@@ -47,7 +47,7 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
     * &#9679; **Codebase:** Implemented Kotlin, MVVM with Clean Architecture, RxJava, Dagger, Broadcast Receiver, Retrofit, Room, TDD, Automated UI Testing with Expresso and Firebase TestLab, Circle CI for WavePay and WaveAgent applications. 
     * &#9679; **Lead Development:** Spearheaded the whole Android development of an award-winning digital payment apps, achieving millions of daily active transactions.
     * &#9679; **Cross-Functional Collaboration:** Worked closely with Product, UX designers, Analytics, Architects, backend developers, and QA teams to ensure seamless delivery of high-quality applications.
-    * &#9679; **Agile Practices:**Actively participated in Agile development sprints, including sprint planning, daily stand-ups, and retrospectives.
+    * &#9679; **Agile Practices:** Actively participated in Agile development sprints, including sprint planning, daily stand-ups, and retrospectives.
     * &#9679; **Mentorship:** Conducted regular code reviews and provided mentorship to team members resulting in improved coding standards and overall team performance.
     * &#9679; **Security Compliance:** Ensured compliance with security guidelines and best practices in mobile development.
     * &#9679; **Testing:** Conducted unit and automated UI testing to identify and resolve bugs, ensuring a smooth user experience.
@@ -63,8 +63,9 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
     * &#9679;**Mentorship:** Mentored junior developers, fostering skill development and knowledge sharing within the team.
     * &#9679; **Cross-Functional Collaboration:** Collaborated closely with clients to gather requirements, provide technical guidance, and deliver Elite App and RMS App.
     * &#9679; **Support:** Participated User Traning Programs. 
+    <br><br>
 * **Junior Android Developer** @ [Myanmar Hyperion](https://www.ascribe.io/) _(Jan 2013 - Mar 2014)_ <br>
-    * &#9679; **Development Support:* Developed and maintained House Sell/Rent app.
+    * &#9679; **Development Support:** Developed and maintained House Sell/Rent app.
     * &#9679; **Collaboration:** Collaborated closely with Manager to develop project plans and technology details.
     * &#9679; **Technical Implementation:** Implemented responsive UI designs, ensuring a consistent and visually appealing user experience across multiple devices.
 

@@ -17,7 +17,7 @@ Senior Android Developer at Lomotif| ex Android Team Lead at WaveMoney| Google D
 Android Development, Team Efficiency, Testing, Quality Product Development
 
 ## Overview
-Seasoned Google Developer Expert for Android with over 10 years of experience as a results-oriented Senior Android Developer. Led and built the award-winning WavePay app, a digital payment platform serving millions of daily active users, from the ground up. Strong expertise in collaborating with cross-functional teams to deliver high-performance, user-centric applications.<br>
+Seasoned Google Developer Expert for Android with over 10 years of experience as a results-oriented Senior Android Developer. Throughout my career, I have led and developed top-tier apps across various industries, including Fintech, Restaurant Management Systems, Social Apps, Elite Card Systems, and Taxi Driver services. Among these, two apps currently serve over 10 million users, with the WavePay app being the number one digital payment app, built entirely from scratch. I have extensive experience working with different device sizes, especially tablets, and various versions of Android phones. I oversee apps from development to release on Google Play Store, collaborating with Backend, QA, UI/UX designers, Product Managers, Analytics, Data Teams, Solution Architects, and DevOps.<br>
 Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architecture with MVVM, latest Android SDK, Android UI design principles, patterns,best practices, Jetpack Compose, Retrofit with Moshi for RestAPI, Hilt, Coroutine, ScreenShot Testing,Junit, Mockito, and Espresso, and managed CI/CD.
 
 
@@ -64,10 +64,11 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
     * &#9679; **Mentorship:** Conducted regular code reviews and provided mentorship to team members resulting in improved coding standards and overall team performance.
 <br><br>
 * **Senior Android Developer** @ [Aceplus+](https://aceplussolutions.com/about-us/) _(May 2014 - Sept 2016)_ <br>
-    * &#9679; **Performance Optimization:** Resolved critical technical issues and bugs, resulting in a 40% decrease in Elite App crashes.
+    * &#9679; ** Developed Restaurant Managment App from ground up.
+    * &#9679; **Performance Optimization:** Resolved critical technical issues and bugs, resulting in crash free and better performance for Elite App.
     * &#9679;**Mentorship:** Mentored junior developers, fostering skill development and knowledge sharing within the team.
     * &#9679; **Cross-Functional Collaboration:** Collaborated closely with clients to gather requirements, provide technical guidance, and deliver Elite App and RMS App.
-    * &#9679; **Support:** Participated User Traning Programs. 
+    * &#9679; **Support:** Participated User Traning Programs and delivered app to client. 
     * &#9679; **Mentorship:** Conducted regular code reviews and provided mentorship to team members resulting in improved coding standards and overall team performance.
     <br><br>
 * **Junior Android Developer** @ [Myanmar Hyperion](https://www.ascribe.io/) _(Jan 2013 - Mar 2014)_ <br>

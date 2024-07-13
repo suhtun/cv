@@ -17,9 +17,10 @@ Senior Android Developer at Lomotif| ex Android Team Lead at WaveMoney| Google D
 Android Development, Team Efficiency, Testing, Quality Product Development
 
 ## Overview
-Seasoned Google Developer Expert for Android with over 10 years of experience as a results-oriented Senior Android Developer. Throughout my career, I have led and developed top-tier apps across various industries, including Fintech, Restaurant Management Systems, Social Apps, Elite Card Systems, and Taxi Driver services. Among these, two apps currently serve over 10 million users, with the WavePay app being the number one digital payment app, built entirely from scratch. I have extensive experience working with different device sizes, especially tablets, and various versions of Android phones. I oversee apps from development to release on Google Play Store, collaborating with Backend, QA, UI/UX designers, Product Managers, Analytics, Data Teams, Solution Architects, and DevOps.<br>
-Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architecture with MVVM, latest Android SDK, Android UI design principles, patterns,best practices, Jetpack Compose, Retrofit with Moshi for RestAPI, Hilt, Coroutine, ScreenShot Testing,Junit, Mockito, and Espresso, and managed CI/CD.
-
+Seasoned Google Developer Expert for Android with over 10 years of experience as a results-oriented Senior Android Developer. Throughout my career, I have led and developed top-tier apps across various industries, including Fintech, Restaurant Management Systems, Social Apps, Elite Card Systems, and Taxi Driver services. Among these, two apps currently serve over 10 million users, with the WavePay app being the number one digital payment app, built entirely from scratch. <br>
+I have extensive experience working with different device sizes, especially tablets, and various versions of Android phones. I oversee apps from development to release on Google Play Store, collaborating with Backend,Web, QA, UI/UX designers, Product Managers, Analytics, Data Teams, Solution Architects, and DevOps.<br>
+Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architecture with MVVM, latest Android SDK, Android UI design principles, SOLID design patterns,best practices, Jetpack Compose, Retrofit with Moshi for RestAPI, Hilt, Coroutine, Flow, Testing, TDD, ScreenShot Testing,Junit. Additionally, I manage CI/CD pipelines to automate build, test, and deployment processes.<br>
+Last but not least, I regularly collaborate with cross-functional teams, conducting code reviews, providing mentorship to team members, and adhering to agile development practices.<br>
 
 ## Technical Skills
 * &#9679; **Languagues:** Kotlin, Java, XML, Flutter

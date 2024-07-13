@@ -57,20 +57,23 @@ Most of my recent hand-ons tech experience has been 100% Kotlin, Clean Architect
     * &#9679; **Agile Practices:** Actively participated in Agile development sprints, including sprint planning, daily stand-ups, and retrospectives.
     * &#9679; **Mentorship:** Conducted regular code reviews and provided mentorship to team members resulting in improved coding standards and overall team performance.
 <br><br>
+
 * **Senior Android Developer** @ [Shwe Tech]() _(Sept 2016 - Oct 2017)_ <br>
-    * &#9679; **Development Support:**Developed the complete developer of Live Streaming and Taxi Driver apps and maintained Entertainment app.
-    * &#9679; **Team Collaboration:**Worked closely with backend developers to integrate RESTful APIs and ensure seamless data flow between the mobile app and server. And collaborated closely with Project Manager and Owner to gather requirements, provide technical guidance, and deliver solutions.
+    * &#9679; **Achievements:** Developed the complete developer of Live Streaming and Taxi Driver apps and maintained Entertainment app.
+    * &#9679; **Team Collaboration:** Worked closely with backend developers to integrate RESTful APIs and ensure seamless data flow between the mobile app and server. And collaborated closely with Project Manager and Owner to gather requirements, provide technical guidance, and deliver solutions.
     * &#9679; **Support:** Supported across the entire apps design, build, deploy, release to app stores 
     * &#9679; **Mentorship:** Conducted regular code reviews and provided mentorship to team members resulting in improved coding standards and overall team performance.
 <br><br>
+
 * **Senior Android Developer** @ [Aceplus+](https://aceplussolutions.com/about-us/) _(May 2014 - Sept 2016)_ <br>
-    * &#9679; ** Developed Restaurant Managment App from ground up.
+    * &#9679; **Achievements:** Developed Restaurant Managment App from ground up.
     * &#9679; **Performance Optimization:** Resolved critical technical issues and bugs, resulting in crash free and better performance for Elite App.
     * &#9679;**Mentorship:** Mentored junior developers, fostering skill development and knowledge sharing within the team.
     * &#9679; **Cross-Functional Collaboration:** Collaborated closely with clients to gather requirements, provide technical guidance, and deliver Elite App and RMS App.
     * &#9679; **Support:** Participated User Traning Programs and delivered app to client. 
     * &#9679; **Mentorship:** Conducted regular code reviews and provided mentorship to team members resulting in improved coding standards and overall team performance.
     <br><br>
+    
 * **Junior Android Developer** @ [Myanmar Hyperion](https://www.ascribe.io/) _(Jan 2013 - Mar 2014)_ <br>
     * &#9679; **Development Support:** Developed and maintained House Sell/Rent app.
     * &#9679; **Collaboration:** Collaborated closely with Manager to develop project plans and technology details.
